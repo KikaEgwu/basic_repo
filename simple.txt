@@ -1,0 +1,7 @@
+Create a new repo @ GitHub.com named basic_repo
+Create a folder called basic_repo and use git init to create the repository
+Use (Windows) copy nul <filename.ext> to create files
+Use start <filename.ext> to add some content
+git add . , git commit -m "Comment" to add and commit repo changes
+git remote add basic_repo https://github.com/KikaEgwu/basic_repo.git to add GitHub repo
+git push basic_repo master to push to GitHub
